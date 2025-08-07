@@ -36,11 +36,11 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1.  Clona el repositorio:
     ```bash
-    git clone https://github.com/rorosandoval/tecno-fast.git
+    git clone https://github.com/rorosandoval/ProyectoFinalSandoval.git
     ```
 2.  Navega al directorio del proyecto:
     ```bash
-    cd tecno-fast
+    cd ProyectoFinalSandoval
     ```
 3.  Instala las dependencias:
     ```bash
