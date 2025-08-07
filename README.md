@@ -1,14 +1,14 @@
 # TecnoFast
 
-### Proyecto Final - Desarrollador Front End con React
+## Proyecto Final - Desarrollador Front End con React 
 
-## Descripción del Proyecto
+### Descripción del Proyecto 👨🏻‍💻
 
 Este es el Front End de una Single Page Application (SPA) de e-commerce, desarrollada con React. La aplicación permite a los usuarios navegar por un catálogo de productos, filtrar por categorías, ver los detalles de cada producto, agregar ítems a un carrito de compras y completar una orden.
 
 El proyecto implementa la conexión a una base de datos en la nube (Firebase/Firestore) para gestionar el catálogo de productos y almacenar los registros de las compras realizadas.
 
-## Funcionalidades Principales
+### Funcionalidades Principales 💻
 
 * **Catálogo de Productos:** Vista principal que muestra un listado de todos los productos disponibles.
 * **Filtro por Categorías:** Navegación entre distintas categorías (`Hardware`, `Periféricos`, etc.) que filtra dinámicamente el catálogo.
@@ -21,7 +21,7 @@ El proyecto implementa la conexión a una base de datos en la nube (Firebase/Fir
 * **Alertas personalizadas:** Implementación de `sweetalert2` para mostrar mensajes y confirmaciones más atractivos al usuario.
 * **Diseño Responsivo:** Estilos implementados con Bootstrap y CSS para una experiencia de usuario consistente en diferentes dispositivos.
 
-## Tecnologías Utilizadas
+### Tecnologías Utilizadas 🤖
 
 * **React** - Librería para la interfaz de usuario.
 * **React Router DOM** - Para la gestión de la navegación y las rutas.
@@ -30,17 +30,17 @@ El proyecto implementa la conexión a una base de datos en la nube (Firebase/Fir
 * **SweetAlert2** - Librería para alertas personalizables y más atractivas.
 * **CSS** - Hojas de estilo personalizadas para un diseño único.
 
-## Instalación y Ejecución
+### Instalación y Ejecución 🛠️⚙️
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1.  Clona el repositorio:
     ```bash
-    git clone https://github.com/rorosandoval/coder-react.git
+    git clone https://github.com/rorosandoval/tecno-fast.git
     ```
 2.  Navega al directorio del proyecto:
     ```bash
-    cd coder-react
+    cd tecno-fast
     ```
 3.  Instala las dependencias:
     ```bash
